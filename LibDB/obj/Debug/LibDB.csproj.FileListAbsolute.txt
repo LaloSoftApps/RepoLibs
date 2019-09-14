@@ -1,0 +1,6 @@
+D:\DotNet\Repo\LibDB\bin\Debug\LibDB.dll
+D:\DotNet\Repo\LibDB\bin\Debug\LibDB.pdb
+D:\DotNet\Repo\LibDB\obj\Debug\LibDB.csproj.CoreCompileInputs.cache
+D:\DotNet\Repo\LibDB\obj\Debug\LibDB.dll
+D:\DotNet\Repo\LibDB\obj\Debug\LibDB.pdb
+D:\DotNet\Repo\LibDB\obj\Debug\LibDB.csprojAssemblyReference.cache

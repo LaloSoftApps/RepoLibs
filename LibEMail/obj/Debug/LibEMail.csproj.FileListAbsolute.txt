@@ -1,0 +1,5 @@
+D:\DotNet\Repo\LibEMail\bin\Debug\LibEMail.dll
+D:\DotNet\Repo\LibEMail\bin\Debug\LibEMail.pdb
+D:\DotNet\Repo\LibEMail\obj\Debug\LibEMail.csproj.CoreCompileInputs.cache
+D:\DotNet\Repo\LibEMail\obj\Debug\LibEMail.dll
+D:\DotNet\Repo\LibEMail\obj\Debug\LibEMail.pdb
